@@ -5,7 +5,7 @@ var config = {
     markerColor: '#000000',
     theme: 'dark',
     use3dTerrain: false,
-    title: 'Menjelajahi Sebaran Lokasi Terbunuhnya 14 Jurnalis Indonesia Sejak Tahun 1996',
+    title: 'Menjelajahi Sebaran Lokasi Terbunuhnya 14 Jurnalis Indonesia Sejak 1996',
     subtitle: '',
     byline: '',
     footer: 'Sumber Data : Aliansi Jurnalis Independen, Dewan Pers, Committee to Protect Journalists',
